@@ -1,16 +1,20 @@
 # Tic Tac Toe Game
 
-A Tic Tac Toe game built using HTML, CSS, and JavaScript.
+A responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game supports two-player gameplay, winner detection, draw detection, score tracking, and game reset functionality.
+
+## Live Demo
+
+- https://lakshman-tech.netlify.app/
 
 ## Features
 
-- Two-players game play
+- Two-player gameplay
 - Winner detection
 - Draw detection
 - Scoreboard tracking
 - Turn indicator
 - Reset game functionality
-- New game option
+- New Game option
 - Winning combination highlight
 
 ## Technologies Used
@@ -21,17 +25,18 @@ A Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## Project Structure
 
-- `index.html` - Game layout
-- `style.css` - Styling and UI
-- `app.js` - Game logic
+- `index.html` – Game layout
+- `style.css` – Styling and UI
+- `app.js` – Game logic
 
 ## Future Improvements
 
-- Play against computer
-- Difficulty levels
+- Play against computer (AI)
+- Multiple difficulty levels
 - Sound effects
-- Mobile responsiveness
+- Improved mobile responsiveness
+- Dark mode support
 
 ## Author
 
-Ramjoshi Lakshman
+Lakshman Ramjoshi
